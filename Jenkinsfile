@@ -8,7 +8,7 @@ pipeline {
     }
     stage('hello') {
       steps {
-        sh 'python3 uscis.py'
+        sh 'python3 date.py'
       }
     }
   }
