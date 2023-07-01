@@ -14,7 +14,7 @@ mycursor = mydb.cursor()
 
 base_url = "https://egov.uscis.gov/csol-api/case-statuses/WAC"
 
-case_number = 2390000096
+case_number = 2390050000
 
 format_1 = '%B %d %Y'
 
